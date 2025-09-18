@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CustomerOrderManagement.Services;
+using CustomerOrderManagement.UI;
+
+class Program
+{
+    static void Main ()
+    {
+    var service = new OrderService();
+    var menu = new Menu(service);
+    menu.ShowMenu();
+    }
+}

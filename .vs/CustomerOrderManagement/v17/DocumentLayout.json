@@ -3,8 +3,50 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\data\\jsondatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:data\\jsondatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8061A3-2B59-267D-BF42-6CBBFC946DB5}|..\\CustomerOrderManagement.Tests\\CustomerOrderManagement.Tests.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement.tests\\tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8061A3-2B59-267D-BF42-6CBBFC946DB5}|..\\CustomerOrderManagement.Tests\\CustomerOrderManagement.Tests.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement.tests\\customerordermanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|c:\\program files (x86)\\projects\\kristiania\\semester 3\\software design (c#)\\customerordermanagement\\customerordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44850BB2-2ECB-4788-B58B-7FE266B969F6}|CustomerOrderManagement.csproj|solutionrelative:customerordermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +56,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "UI\\Menu.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\UI\\Menu.cs",
+              "RelativeToolTip": "UI\\Menu.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:22:26.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerOrderManagement.csproj",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\CustomerOrderManagement.csproj",
+              "RelativeDocumentMoniker": "CustomerOrderManagement.csproj",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\CustomerOrderManagement.csproj",
+              "RelativeToolTip": "CustomerOrderManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T22:52:04.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerOrderManagement.Tests.csproj",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement.Tests\\CustomerOrderManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\CustomerOrderManagement.Tests\\CustomerOrderManagement.Tests.csproj",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement.Tests\\CustomerOrderManagement.Tests.csproj",
+              "RelativeToolTip": "..\\CustomerOrderManagement.Tests\\CustomerOrderManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T22:51:56.914Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-16T22:35:41.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement.Tests\\Tests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\CustomerOrderManagement.Tests\\Tests\\OrderServiceTests.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement.Tests\\Tests\\OrderServiceTests.cs",
+              "RelativeToolTip": "..\\CustomerOrderManagement.Tests\\Tests\\OrderServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:34:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:28:11.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:27:57.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonDataHandler.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Data\\JsonDataHandler.cs",
+              "RelativeDocumentMoniker": "Data\\JsonDataHandler.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Data\\JsonDataHandler.cs",
+              "RelativeToolTip": "Data\\JsonDataHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:27:34.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:27:04.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:26:37.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T21:26:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Program Files (x86)\\Projects\\Kristiania\\semester 3\\Software Design (C#)\\CustomerOrderManagement\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -26,8 +201,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-16T19:13:58.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T19:13:58.067Z"
             }
           ]
         }
